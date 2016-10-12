@@ -3,7 +3,7 @@ p {
   font-size: 20px;
   text-align: center;
 }
-img {
+IMG.current {
   margin-left: auto;
   margin-right: auto;
 }
