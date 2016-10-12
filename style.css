@@ -4,6 +4,7 @@ p {
   text-align: center;
 }
 IMG.current {
+  display: block;
   margin-left: auto;
   margin-right: auto;
 }
