@@ -8,3 +8,7 @@ IMG.current {
   margin-left: auto;
   margin-right: auto;
 }
+.hidden-links {
+  text-decoration: none;
+  color: #536482
+}
