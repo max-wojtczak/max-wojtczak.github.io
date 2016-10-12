@@ -16,3 +16,6 @@ IMG.current {
   font-family: cursive, monospace;
   color: purple;
 }
+h1 {
+  text-align: center;
+}
