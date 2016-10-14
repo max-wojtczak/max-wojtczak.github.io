@@ -19,3 +19,6 @@ IMG.current {
 h1 {
   text-align: center;
 }
+div.top-banner {
+  background-color: aqua;
+}
