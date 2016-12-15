@@ -20,7 +20,7 @@ h1 {
   text-align: center;
 }
 h2 {
-  text-align: center;
+  
 }
 div.top-banner {
   background-color: aqua;
@@ -29,5 +29,9 @@ div.pbg {
   background-color: aqua;
 }
 #list {
-  text-align: center;
+
+}
+
+."fa-facebook-official" {
+    font-size: 200px;
 }
