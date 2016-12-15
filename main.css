@@ -1,7 +1,4 @@
-body {
-  background-color: blue;
-}
-
-div.Courses {
-  font-size: 44px;
+#justify {
+    text-align: justify;
+    padding-right: 18cm;
 }
