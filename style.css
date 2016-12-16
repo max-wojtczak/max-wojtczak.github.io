@@ -84,6 +84,9 @@ div.pbg {
   padding-left: 1cm;
   font-size: 48px;
 }
+#grey {
+  color: #c2c2a3;
+}
 
 body{
   font-family: 'Noto Sans', sans-serif;
