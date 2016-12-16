@@ -50,7 +50,11 @@ ul {
   margin-right: auto;
 }
 #academic {
-text-align: center;
+  text-align: center;
+  color: #66b3ff;
+}
+.myaca {
+  font-size: 64px;
 }
 a {
   color: white;
